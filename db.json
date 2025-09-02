@@ -155,6 +155,12 @@
       "name": "Vinnie",
       "level": "2.5",
       "type": "Mensalista"
+    },
+    {
+      "id": "3cc1",
+      "name": "Miguel Lima",
+      "level": "3.0",
+      "type": "Diarista"
     }
   ],
   "matches": [
