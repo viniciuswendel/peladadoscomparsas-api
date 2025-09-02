@@ -1,158 +1,173 @@
 {
-  "players": [],
-  "matches": [
+  "players": [
     {
-      "id": "9ca6",
-      "location": "Arena Gol de Placa",
-      "date": "2025-08-27",
-      "hour": "21:30",
-      "status": "Aberta",
-      "teams": [
-        {
-          "id": "1",
-          "team": "Vermelho",
-          "players": [
-            {
-              "id": "50",
-              "name": "Dimas",
-              "level": "2.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "194",
-              "name": "Thulin",
-              "level": "2.0",
-              "type": "Mensalista"
-            },
-            {
-              "name": "Jean",
-              "level": "2.0",
-              "type": "Diarista",
-              "id": "215"
-            },
-            {
-              "id": "41",
-              "name": "Clayver",
-              "level": "3.0",
-              "type": "Mensalista"
-            },
-            {
-              "id": "38",
-              "name": "Carioca Pai",
-              "level": "0.5",
-              "type": "Mensalista"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "team": "Preto",
-          "players": [
-            {
-              "id": "86",
-              "name": "Ivan",
-              "level": "0.5",
-              "type": "Diarista"
-            },
-            {
-              "id": "66",
-              "name": "Gabriel",
-              "level": "3.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "100",
-              "name": "João Gomes",
-              "level": "2.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "103",
-              "name": "João Vinícius",
-              "level": "2.0",
-              "type": "Mensalista"
-            },
-            {
-              "id": "145",
-              "name": "Naianderson",
-              "level": "2.0",
-              "type": "Diarista"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "team": "Azul",
-          "players": [
-            {
-              "id": "92",
-              "name": "Joao Gabriel III",
-              "level": "2.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "139",
-              "name": "Miguel",
-              "level": "3.0",
-              "type": "Diarista"
-            },
-            {
-              "id": "82",
-              "name": "Ian",
-              "level": "2.0",
-              "type": "Mensalista"
-            },
-            {
-              "id": "137",
-              "name": "Messias",
-              "level": "2.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "8922",
-              "name": "Geovanny",
-              "level": "2.0",
-              "type": "Convidado"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "team": "Amarelo",
-          "players": [
-            {
-              "id": "12",
-              "name": "Audisio",
-              "level": "2.0",
-              "type": "Mensalista"
-            },
-            {
-              "id": "56",
-              "name": "Elones",
-              "level": "2.0",
-              "type": "Mensalista"
-            },
-            {
-              "id": "198",
-              "name": "Valdemar",
-              "level": "1.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "26",
-              "name": "Bruno",
-              "level": "2.5",
-              "type": "Mensalista"
-            },
-            {
-              "id": "155",
-              "name": "Pedro",
-              "level": "2.5",
-              "type": "Mensalista"
-            }
-          ]
-        }
-      ]
+      "id": "feca",
+      "name": "Audisio",
+      "level": "2.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "ab01",
+      "name": "Bruno",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "6ef7",
+      "name": "Carioca Filho",
+      "level": "4.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "cae4",
+      "name": "Carioca Pai",
+      "level": "2.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "e48f",
+      "name": "Clayver",
+      "level": "2.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "a6b9",
+      "name": "Dimas",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "6229",
+      "name": "Edmilson",
+      "level": "1.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "eb4d",
+      "name": "Elones",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "1b08",
+      "name": "Gabriel Marques",
+      "level": "3.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "99b3",
+      "name": "Gabriel Ribeiro",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "18c6",
+      "name": "Gustavo",
+      "level": "4.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "f772",
+      "name": "Ian",
+      "level": "2.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "513e",
+      "name": "Ivan",
+      "level": "2.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "1873",
+      "name": "Jean",
+      "level": "3.5",
+      "type": "Diarista"
+    },
+    {
+      "id": "e240",
+      "name": "João Gabriel III",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "2e84",
+      "name": "Matheus (João Gomes)",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "e928",
+      "name": "João Vinícius",
+      "level": "2.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "1be1",
+      "name": "João Victor",
+      "level": "3.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "31af",
+      "name": "Micael",
+      "level": "4.5",
+      "type": "Diarista"
+    },
+    {
+      "id": "3b31",
+      "name": "Messias",
+      "level": "2.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "846f",
+      "name": "Miguel",
+      "level": "3.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "f56a",
+      "name": "Naianderson",
+      "level": "2.5",
+      "type": "Diarista"
+    },
+    {
+      "id": "e888",
+      "name": "Pedro Bill",
+      "level": "2.5",
+      "type": "Mensalista"
+    },
+    {
+      "id": "e9a2",
+      "name": "PH",
+      "level": "3.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "0d53",
+      "name": "Rafael Nunes",
+      "level": "2.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "6b03",
+      "name": "Thulin",
+      "level": "3.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "1cfa",
+      "name": "Valdemar",
+      "level": "2.0",
+      "type": "Mensalista"
+    },
+    {
+      "id": "e251",
+      "name": "Vinnie",
+      "level": "2.5",
+      "type": "Mensalista"
     }
-  ]
+  ],
+  "matches": []
 }
