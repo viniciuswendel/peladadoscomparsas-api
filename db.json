@@ -169,5 +169,13 @@
       "type": "Mensalista"
     }
   ],
-  "matches": []
+  "matches": [
+    {
+      "id": "d504",
+      "location": "Arena Gol de Placa",
+      "date": "2025-09-03",
+      "hour": "21:30",
+      "status": "Aberta"
+    }
+  ]
 }
