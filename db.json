@@ -159,17 +159,193 @@
     {
       "id": "3cc1",
       "name": "Miguel Lima",
+      "level": "2.5",
+      "type": "Diarista"
+    },
+    {
+      "id": "ce7b",
+      "name": "Gabi (Ian)",
+      "level": "2.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "4460",
+      "name": "Thiago (Elones)",
+      "level": "2.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "d01f",
+      "name": "Raiff (Miguel Lima)",
       "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "8a22",
+      "name": "Caio Costa (Lucas Soares)",
+      "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "c583",
+      "name": "Lucas Soares",
+      "level": "1.5",
       "type": "Diarista"
     }
   ],
   "matches": [
     {
-      "id": "23c7",
+      "id": "2b91",
       "location": "Arena Gol de Placa",
       "date": "2025-09-03",
       "hour": "21:30",
-      "status": "Aberta"
+      "status": "Concluída",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "1b08",
+              "name": "Gabriel Marques",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e9a2",
+              "name": "PH",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "d01f",
+              "name": "Raiff (Miguel Lima)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "f772",
+              "name": "Ian",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "ce7b",
+              "name": "Gabi (Ian)",
+              "level": "2.0",
+              "type": "Convidado"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "ab01",
+              "name": "Bruno",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "846f",
+              "name": "Miguel",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "8a22",
+              "name": "Caio Costa (Lucas Soares)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "4460",
+              "name": "Thiago (Elones)",
+              "level": "2.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "1cfa",
+              "name": "Valdemar",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "a6b9",
+              "name": "Dimas",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "2e84",
+              "name": "Matheus (João Gomes)",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "feca",
+              "name": "Audisio",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "3cc1",
+              "name": "Miguel Lima",
+              "level": "2.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e240",
+              "name": "João Gabriel III",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e48f",
+              "name": "Clayver",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e928",
+              "name": "João Vinícius",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "c583",
+              "name": "Lucas Soares",
+              "level": "1.5",
+              "type": "Diarista"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
