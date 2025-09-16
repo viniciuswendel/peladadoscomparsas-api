@@ -191,6 +191,18 @@
       "name": "Lucas Soares",
       "level": "1.5",
       "type": "Diarista"
+    },
+    {
+      "id": "1069",
+      "name": "Thales (Carioca Filho)",
+      "level": "4.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "c27d",
+      "name": "Sérgio (Carioca Pai)",
+      "level": "2.0",
+      "type": "Diarista"
     }
   ],
   "matches": [
@@ -351,6 +363,13 @@
       "id": "4ceb",
       "location": "Arena Gol de Placa",
       "date": "2025-09-10",
+      "hour": "21:30",
+      "status": "Concluída"
+    },
+    {
+      "id": "cfc8",
+      "location": "Arena Gol de Placa",
+      "date": "2025-09-17",
       "hour": "21:30",
       "status": "Aberta"
     }
