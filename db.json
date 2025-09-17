@@ -371,7 +371,153 @@
       "location": "Arena Gol de Placa",
       "date": "2025-09-17",
       "hour": "21:30",
-      "status": "Aberta"
+      "status": "Aberta",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "1069",
+              "name": "Thales (Carioca Filho)",
+              "level": "4.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "1be1",
+              "name": "João Victor",
+              "level": "3.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "846f",
+              "name": "Miguel",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e888",
+              "name": "Pedro Bill",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "f772",
+              "name": "Ian",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "1b08",
+              "name": "Gabriel Marques",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "2e84",
+              "name": "Matheus (João Gomes)",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e9a2",
+              "name": "PH",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "3b31",
+              "name": "Messias",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "ab01",
+              "name": "Bruno",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e240",
+              "name": "João Gabriel III",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "6b03",
+              "name": "Thulin",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e928",
+              "name": "João Vinícius",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "1cfa",
+              "name": "Valdemar",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "a6b9",
+              "name": "Dimas",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "feca",
+              "name": "Audisio",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e48f",
+              "name": "Clayver",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "c27d",
+              "name": "Sérgio (Carioca Pai)",
+              "level": "2.0",
+              "type": "Diarista"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
