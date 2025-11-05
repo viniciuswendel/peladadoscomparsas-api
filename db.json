@@ -10,13 +10,13 @@
       "id": "ab01",
       "name": "Bruno",
       "level": "3.0",
-      "type": "Mensalista"
+      "type": "Diarista"
     },
     {
       "id": "e48f",
       "name": "Clayver",
       "level": "2.5",
-      "type": "Mensalista"
+      "type": "Diarista"
     },
     {
       "id": "a6b9",
@@ -46,7 +46,7 @@
       "id": "99b3",
       "name": "Gabriel Ribeiro",
       "level": "3.0",
-      "type": "Mensalista"
+      "type": "Diarista"
     },
     {
       "id": "f772",
@@ -64,7 +64,7 @@
       "id": "1873",
       "name": "Jean",
       "level": "3.5",
-      "type": "Diarista"
+      "type": "Mensalista"
     },
     {
       "id": "e240",
@@ -209,6 +209,36 @@
       "name": "Gustavo",
       "level": "5.0",
       "type": "Diarista"
+    },
+    {
+      "id": "3357",
+      "name": "Igor (Edmilson)",
+      "level": "2.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "13ed",
+      "name": "Paiva (PH)",
+      "level": "2.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "9014",
+      "name": "Daelson (Pablo)",
+      "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "475a",
+      "name": "Isaac",
+      "level": "2.0",
+      "type": "Diarista"
+    },
+    {
+      "id": "cbad",
+      "name": "Wesley (Gustavo)",
+      "level": "3.0",
+      "type": "Convidado"
     }
   ],
   "matches": [
@@ -683,7 +713,160 @@
       "location": "Arena Gol de Placa",
       "date": "2025-10-01",
       "hour": "21:30",
-      "status": "Aberta"
+      "status": "Concluída"
+    },
+    {
+      "id": "ffea",
+      "location": "Arena Gol de Placa",
+      "date": "2025-11-05",
+      "hour": "21:30",
+      "status": "Aberta",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "6588",
+              "name": "Gustavo",
+              "level": "5.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "cbad",
+              "name": "Wesley (Gustavo)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "e9a2",
+              "name": "PH",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "475a",
+              "name": "Isaac",
+              "level": "2.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "3357",
+              "name": "Igor (Edmilson)",
+              "level": "2.0",
+              "type": "Convidado"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "1b08",
+              "name": "Gabriel Marques",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "9014",
+              "name": "Daelson (Pablo)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "a6b9",
+              "name": "Dimas",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "3b31",
+              "name": "Messias",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "1873",
+              "name": "Jean",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "2e84",
+              "name": "Matheus (João Gomes)",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e888",
+              "name": "Pedro Bill",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e251",
+              "name": "Vinnie",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "f772",
+              "name": "Ian",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "6b03",
+              "name": "Thulin",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e928",
+              "name": "João Vinícius",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "13ed",
+              "name": "Paiva (PH)",
+              "level": "2.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "6229",
+              "name": "Edmilson",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
