@@ -218,9 +218,9 @@
     },
     {
       "id": "9014",
-      "name": "Daelson (Pablo)",
+      "name": "Daelson",
       "level": "3.0",
-      "type": "Convidado"
+      "type": "Mensalista"
     },
     {
       "id": "475a",
@@ -251,6 +251,30 @@
       "name": "Túlio",
       "level": "4.0",
       "type": "Diarista"
+    },
+    {
+      "id": "2ff1",
+      "name": "Comparsa 01",
+      "level": "2.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "1727",
+      "name": "Comparsa 02",
+      "level": "2.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "d607",
+      "name": "Arley",
+      "level": "2.5",
+      "type": "Diarista"
+    },
+    {
+      "id": "9475",
+      "name": "Ulisses (Bruno)",
+      "level": "2.5",
+      "type": "Convidado"
     }
   ],
   "matches": [
@@ -1179,6 +1203,159 @@
             {
               "id": "6229",
               "name": "Edmilson",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e28",
+      "location": "Arena Gol de Placa",
+      "date": "2025-11-26",
+      "hour": "21:30",
+      "status": "Aberta",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "604f",
+              "name": "Túlio",
+              "level": "4.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "a6b9",
+              "name": "Dimas",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "9475",
+              "name": "Ulisses (Bruno)",
+              "level": "2.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "e240",
+              "name": "João Gabriel III",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "6b03",
+              "name": "Thulin",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "1873",
+              "name": "Jean",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e9a2",
+              "name": "PH",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e251",
+              "name": "Vinnie",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "1cfa",
+              "name": "Valdemar",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "475a",
+              "name": "Isaac",
+              "level": "2.0",
+              "type": "Diarista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "ab01",
+              "name": "Bruno",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "9014",
+              "name": "Daelson",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "d607",
+              "name": "Arley",
+              "level": "2.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "e928",
+              "name": "João Vinícius",
+              "level": "2.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "f772",
+              "name": "Ian",
+              "level": "2.0",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "003d",
+              "name": "Pablo",
+              "level": "3.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e888",
+              "name": "Pedro Bill",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "2ff1",
+              "name": "Comparsa 01",
+              "level": "2.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
               "level": "1.5",
               "type": "Mensalista"
             }
