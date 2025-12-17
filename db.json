@@ -1,4 +1,13 @@
 {
+  "users": [
+    {
+      "id": "267a",
+      "username": "comparsa",
+      "password": "comparsa",
+      "email": "comparsa@pdc.com.br",
+      "role": "ADMIN"
+    }
+  ],
   "players": [
     {
       "id": "feca",
@@ -1215,7 +1224,7 @@
       "location": "Arena Gol de Placa",
       "date": "2025-11-26",
       "hour": "21:30",
-      "status": "Aberta",
+      "status": "Concluída",
       "teams": [
         {
           "id": "1",
@@ -1362,6 +1371,20 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9d0f",
+      "location": "Arena Gol de Placa",
+      "date": "2025-12-03",
+      "hour": "21:30",
+      "status": "Aberta"
+    },
+    {
+      "id": "9ed6",
+      "location": "Arena Gol de Placa",
+      "date": "2025-12-10",
+      "hour": "21:30",
+      "status": "Concluída"
     }
   ]
 }
