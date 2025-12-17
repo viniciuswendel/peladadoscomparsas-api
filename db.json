@@ -252,7 +252,7 @@
     {
       "id": "a96b",
       "name": "Humberto (Bruno)",
-      "level": "1.5",
+      "level": "0.5",
       "type": "Convidado"
     },
     {
@@ -283,6 +283,48 @@
       "id": "9475",
       "name": "Ulisses (Bruno)",
       "level": "2.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "1e45",
+      "name": "Ian Victor (Carioca Pai)",
+      "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "72e4",
+      "name": "Arthur (Ian)",
+      "level": "1.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "0796",
+      "name": "Gabriel B (Ian)",
+      "level": "3.5",
+      "type": "Convidado"
+    },
+    {
+      "id": "36f5",
+      "name": "Berg (Ian)",
+      "level": "2.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "401b",
+      "name": "Vinícius (Bruno)",
+      "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "31ee",
+      "name": "Sueliton (Carioca Pai)",
+      "level": "3.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "d7a3",
+      "name": "Lukas (Carioca Filho)",
+      "level": "2.0",
       "type": "Convidado"
     }
   ],
@@ -1385,6 +1427,159 @@
       "date": "2025-12-10",
       "hour": "21:30",
       "status": "Concluída"
+    },
+    {
+      "id": "8fbd",
+      "location": "Arena Gol de Placa",
+      "date": "2025-12-17",
+      "hour": "21:30",
+      "status": "Concluída",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "31af",
+              "name": "Micael",
+              "level": "4.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "401b",
+              "name": "Vinícius (Bruno)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "1cfa",
+              "name": "Valdemar",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "c27d",
+              "name": "Sérgio (Carioca Pai)",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "1069",
+              "name": "Thales (Carioca Filho)",
+              "level": "4.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "9014",
+              "name": "Daelson",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "3cc1",
+              "name": "Miguel Lima",
+              "level": "2.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "d7a3",
+              "name": "Lukas (Carioca Filho)",
+              "level": "2.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "0796",
+              "name": "Gabriel B (Ian)",
+              "level": "3.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "31ee",
+              "name": "Sueliton (Carioca Pai)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "9475",
+              "name": "Ulisses (Bruno)",
+              "level": "2.5",
+              "type": "Convidado"
+            },
+            {
+              "id": "f772",
+              "name": "Ian",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "72e4",
+              "name": "Arthur (Ian)",
+              "level": "1.0",
+              "type": "Convidado"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "ab01",
+              "name": "Bruno",
+              "level": "3.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "1e45",
+              "name": "Ian Victor (Carioca Pai)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "e240",
+              "name": "João Gabriel III",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "36f5",
+              "name": "Berg (Ian)",
+              "level": "2.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "a96b",
+              "name": "Humberto (Bruno)",
+              "level": "0.5",
+              "type": "Convidado"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
