@@ -251,9 +251,9 @@
     },
     {
       "id": "a96b",
-      "name": "Humberto (Bruno)",
+      "name": "Humberto",
       "level": "0.5",
-      "type": "Convidado"
+      "type": "Diarista"
     },
     {
       "id": "604f",
@@ -281,9 +281,9 @@
     },
     {
       "id": "9475",
-      "name": "Ulisses (Bruno)",
+      "name": "Ulisses",
       "level": "2.5",
-      "type": "Convidado"
+      "type": "Diarista"
     },
     {
       "id": "1e45",
@@ -1419,7 +1419,7 @@
       "location": "Arena Gol de Placa",
       "date": "2025-12-03",
       "hour": "21:30",
-      "status": "Aberta"
+      "status": "Concluída"
     },
     {
       "id": "9ed6",
