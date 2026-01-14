@@ -332,6 +332,18 @@
       "name": "Mateus (Micael)",
       "level": "3.0",
       "type": "Convidado"
+    },
+    {
+      "id": "ea6c",
+      "name": "Estrela (Thulin)",
+      "level": "2.0",
+      "type": "Convidado"
+    },
+    {
+      "id": "b5c9",
+      "name": "Gelado (Dimas)",
+      "level": "2.0",
+      "type": "Convidado"
     }
   ],
   "matches": [
@@ -1735,6 +1747,159 @@
               "name": "Humberto",
               "level": "0.5",
               "type": "Diarista"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6490",
+      "location": "Arena Gol de Placa",
+      "date": "2026-01-14",
+      "hour": "21:30",
+      "status": "Concluída",
+      "teams": [
+        {
+          "id": "1",
+          "team": "Vermelho",
+          "players": [
+            {
+              "id": "31af",
+              "name": "Micael",
+              "level": "4.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "feca",
+              "name": "Audisio",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "e251",
+              "name": "Vinnie",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "b5c9",
+              "name": "Gelado (Dimas)",
+              "level": "2.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "0d53",
+              "name": "Rafael Nunes",
+              "level": "2.0",
+              "type": "Diarista"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "team": "Preto",
+          "players": [
+            {
+              "id": "1069",
+              "name": "Thales (Carioca Filho)",
+              "level": "4.0",
+              "type": "Diarista"
+            },
+            {
+              "id": "e9a2",
+              "name": "PH",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "9475",
+              "name": "Ulisses",
+              "level": "2.5",
+              "type": "Diarista"
+            },
+            {
+              "id": "1cfa",
+              "name": "Valdemar",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "c27d",
+              "name": "Sérgio (Carioca Pai)",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "team": "Azul",
+          "players": [
+            {
+              "id": "a6b9",
+              "name": "Dimas",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "ca4c",
+              "name": "Mateus (Micael)",
+              "level": "3.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "e888",
+              "name": "Pedro Bill",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "6b03",
+              "name": "Thulin",
+              "level": "2.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "513e",
+              "name": "Ivan",
+              "level": "1.5",
+              "type": "Mensalista"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "team": "Amarelo",
+          "players": [
+            {
+              "id": "eb4d",
+              "name": "Elones",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "2e84",
+              "name": "Matheus (João Gomes)",
+              "level": "3.0",
+              "type": "Mensalista"
+            },
+            {
+              "id": "3b31",
+              "name": "Messias",
+              "level": "2.5",
+              "type": "Mensalista"
+            },
+            {
+              "id": "ea6c",
+              "name": "Estrela (Thulin)",
+              "level": "2.0",
+              "type": "Convidado"
+            },
+            {
+              "id": "6229",
+              "name": "Edmilson",
+              "level": "1.5",
+              "type": "Mensalista"
             }
           ]
         }
